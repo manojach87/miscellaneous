@@ -7,3 +7,4 @@ TEST_FILE_NM="adult-test"
 TEST_FILE = "../input/"+TEST_FILE_NM+".csv"
 
 MODEL_OUTPUT = "../models/"
+
