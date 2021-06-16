@@ -26,3 +26,4 @@ def createFolds(label="label"):
 
 if __name__ == "__main__":
     createFolds("income")
+
